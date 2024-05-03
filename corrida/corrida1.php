@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>POSI.BET</title>
   <link rel="stylesheet" href="corrida1.css" type="text/css">
-  <script type="text/javascript" src="corrida.js"></script>
+  <script type="text/javascript" src="/corrida/corrida.js"></script>
 
 </head>
 <body onload="init()">
